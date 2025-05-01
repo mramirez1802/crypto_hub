@@ -200,7 +200,7 @@ The executions of the first two notebooks will be saved in the following formats
 
 2. **processing_data.ipynb**:
     - **Format**: PARQUET
-    - **Path**: `/data/raw/`
+    - **Path**: `/data/output/`
 
 ## Contributing
 
