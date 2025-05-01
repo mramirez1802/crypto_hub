@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 🔹 Configuration File Locations
 
-- `.env` → Must be located in the project root and contains credentials and sensitive settings.
+- `.env` → Must be located in the project root. I created the `.env` file to contain credentials and sensitive settings.
 
 Sample `.env` File:
 
