@@ -1,0 +1,32 @@
+{
+  "database": "crypto_hub_db",
+  "tables": [
+    {
+      "name": "cryptos",
+      "columns": [
+        "id",
+        "symbol",
+        "name"
+      ]
+    },
+    {
+      "name": "market_bitcoin",
+      "columns": [
+        "crypto_id",
+        "currency",
+        "current_price",
+        "market_cap",
+        "total_volume"
+      ]
+    },
+    {
+      "name": "historical_bitcoin_prices",
+      "columns": [
+        "timestamp",
+        "prices",
+        "market_caps",
+        "total_volumes"
+      ]
+    }
+  ]
+}
