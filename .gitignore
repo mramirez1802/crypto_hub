@@ -1,4 +1,5 @@
 .idea/
 .data/
+.venv/
 .env
 .ipynb_checkpoints/
